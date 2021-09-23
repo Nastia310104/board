@@ -1,0 +1,2 @@
+# board
+funny game
